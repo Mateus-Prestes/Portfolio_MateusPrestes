@@ -1,5 +1,6 @@
 ## Projeto Integrador: 2019-2
-SmartParking
+
+![image](https://user-images.githubusercontent.com/56441534/133120210-1783a904-faae-450b-ab2f-208d5c2495b0.png)
 
 ### Parceiro Acadêmico
 FATEC São José dos Campos - Prof. Jessen Vidal
