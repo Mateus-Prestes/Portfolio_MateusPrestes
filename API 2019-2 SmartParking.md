@@ -29,7 +29,7 @@ Requisitos não Funcionais:
 
 ***
 
-#### link do git
+#### link do Repositório do projeto
 [Repositório](https://github.com/LeonardoMessias98/Smartparking)
 
 
