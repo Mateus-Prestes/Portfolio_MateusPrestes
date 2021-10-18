@@ -53,9 +53,12 @@ Desenvolvi também o wireframe das telas que deveriam compor a aplicação. Este
 
 ### Hard Skills
 Dentre as habilidades técnicas, obtive o seguinte avanço:
-- Wireframes - Protótipo de interface para sugerir a estrutura das telas: Sei fazer com autonomia;
-- Firestore Database - Banco de dados NoSQL hospedado na nuvem: Sei utilizar com ajuda;
-- App Inventor - Ferramenta de desenvolvimento para aplicativos Mobile: Aprendi a utiliza-lo com autonomia;
+- Wireframes - Protótipo de interface para sugerir a estrutura das telas: 
+    - Sei fazer com autonomia;
+- Firestore Database - Banco de dados flexível e escalonável para desenvolvimento focado em dispositivos móveis: 
+    - Sei utilizar com ajuda;
+- App Inventor - Ferramenta de drag-and-drop (arrastar e soltar) visual para a construção de aplicações móveis na plataforma Android: 
+    - Aprendi a utiliza-lo com autonomia.
 
 ### Soft Skills
 Dentre as habilidades interpessoais performei com dedicação em diversas reuniões com o time, planejamentos, revisões, dentre outras estratégias da metodologia ágil.
