@@ -8,6 +8,7 @@ Tendo em vista a mudança do modelo de operação do Cadastro Positivo.
 SPC - Brasil: Uma empresa de tecnologia vinculada à CNDL para processar e armazenar todas as operações de crédito realizadas pelas empresas associadas.
 
 Conheça mais em [spcbrasil.org.br](https://www.spcbrasil.org.br/).
+
 <img src="https://user-images.githubusercontent.com/56441534/138450126-38d20c22-1d13-463b-b7af-3174a93ea759.png" width="300"/>
 
 ***
