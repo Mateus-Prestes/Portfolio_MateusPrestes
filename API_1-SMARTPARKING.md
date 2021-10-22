@@ -41,10 +41,10 @@ Requisitos não Funcionais:
 ### Tecnologias adotadas na solução
 Para obter o resultado esperado, a equipe utilizou as seguintes tecnologias:
 
-- App Inventor: Ferramenta de desenvolvimento para aplicativos Mobile.
-- Firestore Database: Banco de dados NoSQL hospedado na nuvem.
-- Placa arduíno integrada com um sensor de distância ultrasônico e um módulo bluetooth.
-- Linguagem de programação C++ para programação do Arduino Uno.
+- [App Inventor](https://appinventor.mit.edu/): Ferramenta de desenvolvimento para aplicativos Mobile.
+- [Firestore Database](https://firebase.google.com/docs/firestore?hl=pt-br): Banco de dados NoSQL hospedado na nuvem.
+- [Placa arduíno](https://www.arduino.cc/): A palca fpo integrada com um sensor de distância ultrasônico e um módulo bluetooth.
+- [Linguagem de programação C++](https://isocpp.org/): para programação do Arduino Uno.
 
 ### Contribuições Pessoais
 Durante o desenvolvimento do projeto atuei principalmente em como seria o funcionamento do aplicativo móvel por trás da interface. Atuando na comunicação com o banco de dados e no desenvolvimento da lógica por trás de cada botão e layout das telas.
