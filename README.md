@@ -46,7 +46,7 @@ Dentre minhas habilidades técnicas,
     - ```Java```.
 
 - Bancos de dados:
-    - ```PostGress```- ```PostGIS``` Para armazenamento de dados geoespaciais oriundos de arquivos no formato ShapeFile;
+    - ```PostGreSQL```- ```PostGIS``` Para armazenamento de dados geoespaciais oriundos de arquivos no formato ShapeFile;
     - ```MariaDB```- ```MySQL``` Para armazenamento de cadastros de úsuarios e dados corporativos;
     - ```Oracle``` Para cadastros armazenamento de númericos utilizados em fórmulas de estatistica e cálculos de energia; e
     - ```MongoDB``` No armazenamento de cadastros e anuncios, visando a performace e segurança dos dados na aplicação.
