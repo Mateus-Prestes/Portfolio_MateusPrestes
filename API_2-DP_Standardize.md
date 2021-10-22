@@ -8,6 +8,7 @@ Tendo em vista a mudança do modelo de operação do Cadastro Positivo.
 ### Parceiro Acadêmico
 SPC - Brasil. Uma empresa de tecnologia vinculada à CNDL para processar e armazenar todas as operações de crédito realizadas pelas empresas associadas.
 
+Conheça mais em [spcbrasil.org.br](https://www.spcbrasil.org.br/).
 <img src="https://user-images.githubusercontent.com/56441534/138450126-38d20c22-1d13-463b-b7af-3174a93ea759.png" width="300"/>
 
 ***
@@ -17,16 +18,12 @@ DP Standardize se trata de uma ferramenta no formato Aplicativo Desktop que visa
 
 ![marketing_PI_11111](https://user-images.githubusercontent.com/57918707/87260544-dbc5ef80-c488-11ea-8987-faec80939a8b.png)
 
-Preparar os dados é um processo que demanda tempo e esforço e é durante esta etapa que os dados são coletados, tratados e consolidados visando facilitar e auxiliar uma análise precisa dos dados.
+DP Standardize trabalha principalmente na padronização dos dados, sendo capaz de analisar qualquer tabela `xlsx` e `csv`. Permite a personalização dos campos, e possibilitando um apontamento de quais tipos de dados não podem conter em cada coluna.
 
-DP Standardize trabalha principalmente na padronização dos dados, sendo capaz de analisar qualquer tabela ```xlsx``` e ```csv```. Permite a personalização dos campos, e possibilitando um apontamento de quais tipos de dados não podem conter em cada coluna.
-
-A ferramenta permite também a geração de novos arquivos ```xlsx``` e ```csv``` oriundos dos arquivos originais. Depois de trabalhar na remessa de dados, as novas tabelas podem ser geradas, agora com os dados padronizados.
+A ferramenta permite também a geração de novos arquivos `xlsx` e `csv` oriundos dos arquivos originais. Depois de trabalhar na remessa de dados, as novas tabelas podem ser geradas, agora com os dados padronizados.
 
 #### Lista de Requistos 
-Por conta de ser o primeiro projeto dentro da meotodologia de Aprendizagem por Projetos Integrados, o cliente das equipes foi a própria FATEC São José dos Campos - Prof. Jessen Vidal. Sendo assim a lista de requistos utilizada para a validação das entregas do projeto foi definida e validada junto ao corpo docente da universidade. 
-
-Os ```Requisitos Funcionais``` foram aplicados tendo em vista as seguintes Métricas de Qualidade disponibilizadas pela empresa parceira:
+Os `Requisitos Funcionais` foram aplicados tendo em vista as seguintes Métricas de Qualidade disponibilizadas pela empresa parceira:
 
 1. COMPLETUDE:
     - O campo de cadastro do estado referente a um endereço pode estar preenchido ou não, mesmo sendo obrigatório.
@@ -47,7 +44,7 @@ Os ```Requisitos Funcionais``` foram aplicados tendo em vista as seguintes Métr
 
 Requisitos não Funcionais:
 1. Aplicação Desktop.
-2. Análise e tratamento de arquivos no formato ```xlsx``` e ```csv```.
+2. Análise e tratamento de arquivos no formato `xlsx` e `csv`.
 
 ***
 
@@ -60,10 +57,10 @@ Para obter o resultado esperado, a equipe utilizou as seguintes tecnologias:
 
 ![tecnologias_PI](https://user-images.githubusercontent.com/56441214/87261156-8c34f300-c48b-11ea-89cf-a96eef22661c.png)
 
-- Linguagem de programação ```Python``` para análise dos dados e alcance dos indicadores propostos.
-- Framework ```Electron``` para o desenvolvimento da aplicação desktop GUI (Graphical User Interface).
-- ```HTML```, ```CSS``` e ```JavaScript``` para criação e desenvolvimento do design da Interface do usuário.
-- Por conta da utilização do Framework Electron, foi necessário migrar de python para ```NodeJS```. 
+- [Python](https://www.python.org/): Análise dos dados e alcance dos indicadores propostos.
+- [Electron](https://www.electronjs.org/): Desenvolvimento da aplicação desktop GUI (Graphical User Interface).
+- [HTML](https://devdocs.io/html/), [CSS](https://devdocs.io/css/) e [JavaScript](https://www.javascript.com/): Criação e desenvolvimento do design da Interface do usuário.
+- [NodeJS](https://nodejs.org/en/) Por conta da utilização do Framework Electron, foi necessário migrar de python para NodeJS. 
 
 ### Funcionamento
 
@@ -93,32 +90,19 @@ Assim será gerada uma nova tabela com as novas padronizações.
 
 
 ### Contribuições Pessoais
-Durante o desenvolvimento do projeto atuei em conjunto com os demais membros no tratamento dos dados em arquivos no formato ```xlsx``` e ```csv``` utilizando a linguagem de programação ```python``` em conjunto de algumas bibliotecas como ```xlrd``` e ```matplotlib```.
+Durante o desenvolvimento do projeto atuei em conjunto com os demais membros no tratamento dos dados em arquivos no formato `xlsx` e `csv` utilizando a linguagem de programação `python` em conjunto de algumas bibliotecas como `xlrd` e `matplotlib`.
 Foram diversos tratamentos realizados nos dados, dentre eles:
 - Verificação de valores nulos e repetidos.
 - Geração de gráficos das métricas obtidas com os tratamentos.
 ![gráficos](https://user-images.githubusercontent.com/57918707/87258902-93ed9b00-c47d-11ea-8016-06595b8f563e.jpeg)
 
-- Inserção, excusão e listagem de dados confidenciais contidos nas remessas de dados.
-Um algoritmo é capaz de ler as extensões ```xlsx``` e ```csv``` da base de dados enviadas pela empresa parceira e fazer a verificação em todas as tabelas.
-
-    - Verificação entre os dados cadastrados como confidenciais, para a inserção do nível de restrição: **_Baixo, Médio_** ou **_Alto_**.
-![sprint_3_opc_1_1](https://user-images.githubusercontent.com/57918707/83317345-302b4d80-a202-11ea-8b2c-ba5d8db5ce37.gif)
-
-    - Remoção de um metadado específico da configuração, para ser analisado como confidencial.
-![sprint_3_opc_2_1](https://user-images.githubusercontent.com/57918707/83317359-594bde00-a202-11ea-9b2d-041e2bda4adb.gif)
-
-    - Adição de metadado, na configuração e marcado para ser analisado como confidencial.
-![sprint_3_opc_2_2](https://user-images.githubusercontent.com/57918707/83317378-78e30680-a202-11ea-803a-a9d7c16fc75e.gif)
-
-    - Listagem de todos os metadados marcados como confidenciais.
-![sprint_3_opc_2_3](https://user-images.githubusercontent.com/57918707/83317393-a2039700-a202-11ea-8704-ab287e6b240f.gif)
+- Inserção, exclusão e listagem de dados confidenciais contidos nas remessas de dados. Com um Algoritmo capaz de ler as extensões `xlsx` e `csv` da base de dados enviadas pela empresa parceira e fazer a verificação em todas as tabelas.
 
 - Também atuei fortemente no estudo e entendimento para com a equipe das regras de negócio e métricas solicitadas pelo cliente a serem atendidas.
 
 ### Hard Skills
 Dentre as habilidades técnicas, obtive o seguinte avanço:
-- Análise de dados com python3 de arquivos ```xlsx``` e ```csv```:
+- Análise de dados com python3 de arquivos `xlsx` e `csv`:
     - Sei fazer com autonomia;
 - Geração de gráficos com python3 e a biblioteca matplotlib:
     - Sei fazer com autonomia.
