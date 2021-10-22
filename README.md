@@ -6,7 +6,7 @@ Seja bem vindo ao portfólio acadêmico dos projetos que trabalhei durante os se
 No segundo semestre de 2019 eu ingressei na FATEC iniciando minha carreira na área da Tecnologia da Informação. De lá pra cá aprendi muito, tive a oportunidade de conhecer muitas ferramentas, tecnologias, metodologias, boas práticas...
 E sem dúvidas, posso dizer que a Aprendizagem por Projetos Integrados foi essencial para o meu desenvolvimento. Além de todo o conhecimento, também tive a oportunidade de trabalhar em equipe com o desenvolvimento de projetos reais com empresas reais, adquirindo uma experiência que agrega muito em minha rotina de trabalho.
 
-Atualmente trabalho principalmente com Engenharia de dados e ciência de dados. Pretendo continur nesta área da computação que a cada dia que passa, me chama mais atenção.
+Atualmente trabalho principalmente com Engenharia de dados e ciência de dados. Pretendo continuar nesta área que cada vez mais me desperta mais interesse.
 
 <img src="https://user-images.githubusercontent.com/56441534/138391512-64da6254-c230-4c7d-93f9-3586379d07a4.jpg" alt="drawing" width="400"/>
   
