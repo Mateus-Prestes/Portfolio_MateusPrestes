@@ -40,8 +40,9 @@ Os ```Requisitos Funcionais``` foram aplicados tendo em vista as seguintes Métr
 
 5. ACURÁCIA:
     - Mesmo preenchido (completude) e no formato adequado (validade), o valor pode não se referir a nenhum estado existente na federação 
-(ex: “RG” é uma sigla no formato adequado, porém não simboliza um estado)
-.
+(ex: “RG” é uma sigla no formato adequado, porém não simboliza um estado).
+
+
 Requisitos não Funcionais:
 1. Aplicação Desktop.
 2. Análise e tratamento de arquivos no formato ```xlsx``` e ```csv```.
