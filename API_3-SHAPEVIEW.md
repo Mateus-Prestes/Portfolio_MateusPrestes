@@ -1,12 +1,12 @@
 # Aprendizagem por Projetos Integrados 2020-2
 ![Logo](https://user-images.githubusercontent.com/56441534/138449995-c249e266-cdb5-4cdb-a018-45b64c0ae2c3.png)
 
-O desenvolvimento do projeto foi em torno da necessidade da empresa parceira de ter uma ferramenta web que funcionasse como um mini-ETL, tendo como principais operações:
+O desenvolvimento do projeto foi em torno da necessidade da empresa parceira em ter uma ferramenta web que funcionasse como um mini-ETL, tendo como principais operações:
 - Extrair dados de um arquivo `shapefile` e envia-los ao banco de dados; e
 - Realizar o processo inverso convertendo os dados ingeridos no banco de dados em um novo arquivo `shapefile`.
 
 ### Parceiro Acadêmico
-Visiona Tecnologia Espacial. Uma empresa brasileira integradora de sistemas espaciais.
+Visiona Tecnologia Espacial: Uma empresa brasileira integradora de sistemas espaciais.
 Conheça mais em [visionaespacial.com.br](https://www.visionaespacial.com.br/).
 
 <img src="https://user-images.githubusercontent.com/56441534/138451551-477b7c4e-12fc-48ab-bf1b-e0e7b70e1da4.png" width="400"/>
@@ -77,7 +77,7 @@ Realizada a ingestão o úsuario pode verificar se os dados foram inseridos no b
 ![dados no banco-4](https://user-images.githubusercontent.com/56441534/138463858-700d641b-63a3-46bb-b19a-d07cf7b99a9c.gif)
 
 ## Extração
-Extração do bancos de dados geográfico de dados oriundos de arquivos `shapefile`. A extração gera um novo arquivo `shapefile` 
+Extração do bancos de dados geográfico de dados oriundos de arquivos `shapefile`. A extração gera um novo arquivo `shapefile`.
 
 Extraindo os dados do banco de dados para a criação de um novo arquivo `shapefile` (.shp, .shx, .dbf, .prj e .cpg), é necessário informar de qual tabela o ShapeView irá extrair os dados.
 

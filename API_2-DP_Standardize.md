@@ -1,12 +1,11 @@
 # Aprendizagem por Projetos Integrados 2020-1
 ![logo_figma](https://user-images.githubusercontent.com/56441534/138282337-943cad4b-ddad-43b0-a959-aa154fa47837.png)
 
-O desenvolvimento do projeto foi em torno da necessidade da empresa parceira, de realizar uma gestão de informação mais eficaz para garantir a qualidade, o uso adequado e gerar valor através dos dados.
+O desenvolvimento do projeto foi em torno da necessidade da empresa parceira, de realizar uma gestão de informação mais eficaz para garantir a qualidade, o uso adequado desta informação e gerar valor através dos dados.
 Tendo em vista a mudança do modelo de operação do Cadastro Positivo.
 
-
 ### Parceiro Acadêmico
-SPC - Brasil. Uma empresa de tecnologia vinculada à CNDL para processar e armazenar todas as operações de crédito realizadas pelas empresas associadas.
+SPC - Brasil: Uma empresa de tecnologia vinculada à CNDL para processar e armazenar todas as operações de crédito realizadas pelas empresas associadas.
 
 Conheça mais em [spcbrasil.org.br](https://www.spcbrasil.org.br/).
 <img src="https://user-images.githubusercontent.com/56441534/138450126-38d20c22-1d13-463b-b7af-3174a93ea759.png" width="300"/>
@@ -14,11 +13,11 @@ Conheça mais em [spcbrasil.org.br](https://www.spcbrasil.org.br/).
 ***
 
 ### Visão do Projeto
-DP Standardize se trata de uma ferramenta no formato Aplicativo Desktop que visa padronizar dados recebidos em remessas. O objetivo da ferramenta é ser utilizada como um Data Preparation, visando auxiliar no tratamento e padronização de uma remessa de dados, poupando um tempo valioso de trabalho antes de se agregar um valor maior a estes dados em futuros projetos.
+DP Standardize se trata de uma ferramenta no formato Aplicativo Desktop que visa padronizar dados recebidos em remessas. O objetivo da ferramenta é ser utilizada como um Data Preparation, auxiliando no tratamento e padronização de uma remessa de dados, poupando um tempo valioso de trabalho antes de se agregar um valor maior a estes dados em futuros projetos.
 
 ![marketing_PI_11111](https://user-images.githubusercontent.com/57918707/87260544-dbc5ef80-c488-11ea-8987-faec80939a8b.png)
 
-DP Standardize trabalha principalmente na padronização dos dados, sendo capaz de analisar qualquer tabela `xlsx` e `csv`. Permite a personalização dos campos, e possibilitando um apontamento de quais tipos de dados não podem conter em cada coluna.
+DP Standardize trabalha principalmente na padronização dos dados, sendo capaz de analisar qualquer tabela `xlsx` e `csv`. Permite a personalização dos campos e possibilita um apontamento de quais tipos de dados não podem conter em cada coluna.
 
 A ferramenta permite também a geração de novos arquivos `xlsx` e `csv` oriundos dos arquivos originais. Depois de trabalhar na remessa de dados, as novas tabelas podem ser geradas, agora com os dados padronizados.
 
@@ -29,7 +28,7 @@ Os `Requisitos Funcionais` foram aplicados tendo em vista as seguintes Métricas
     - O campo de cadastro do estado referente a um endereço pode estar preenchido ou não, mesmo sendo obrigatório.
 
 2. CONFORMIDADE:
-    - Uma vez preenchido, tal preenchimento pode ser feito seguindo ou não as regras de negócio (formato, tamanho, etc)
+    - Uma vez preenchido, tal preenchimento pode ser feito seguindo ou não as regras de negócio (formato, tamanho, etc).
 
 3. CONSISTÊNCIA:
     - “Estado” é um dado presente em diversas bases, para um mesmo endereço é importante que todas as bases tenham o mesmo estado cadastrado.
@@ -110,7 +109,5 @@ Dentre as habilidades técnicas, obtive o seguinte avanço:
     - Aprendi a utilizar LGPD com acompanhamento de profissionais mais experientes.
 
 ### Soft Skills
-Dentre as habilidades interpessoais performei minhas habilidades em Regras de negócio, relacionamento com cliente, .
-As Habilidades na metodologia ágil também foram muito trabalhadas através do SCRUM, onde tive pela primeira que vez utilizar minhas habilidades e as ferramentas SCRUM com um cliente real. Todo esse desenvolvimento junto ao cliente foi acompanhado pelo corpo docente da FATEC São José dos Campos - Prof. Jessen Vidal.
 
- 
+Dentre as habilidades interpessoais performei minhas habilidades em Regras de Negócio e Relacionamento com Cliente. Quanto as habilidades na metodologia ágil, também foram bem trabalhadas através do SCRUM, onde tive pela primeira que vez que utilizar minhas habilidades e as ferramentas SCRUM com um cliente real. Todo esse desenvolvimento junto ao cliente foi acompanhado pelo corpo docente da FATEC São José dos Campos - Prof. Jessen Vidal.
