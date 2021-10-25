@@ -1,12 +1,13 @@
 # Mateus Prestes Teodoro Alves
 
 ## Introdução
-Seja bem vindo ao portfólio acadêmico dos projetos que trabalhei durante os semestres de minha formação em Análise e Desenvolvimento de Sistemas, na FATEC São José dos Campos - Prof. Jessen Vidal.
+Olá, eu me chamo Mateus Prestes e tenho 22 anos, sou Engenheiro de Dados pleno e estudante de Análise e Desenvolvimento de Sistemas pela FATEC São José dos Campos - Prof. Jessen Vidal.
 
 No segundo semestre de 2019 eu ingressei na FATEC iniciando minha carreira na área da Tecnologia da Informação. De lá pra cá aprendi muito, tive a oportunidade de conhecer muitas ferramentas, tecnologias, metodologias, boas práticas...
 E sem dúvidas, posso dizer que a Aprendizagem por Projetos Integrados foi essencial para o meu desenvolvimento. Além de todo o conhecimento, também tive a oportunidade de trabalhar em equipe com o desenvolvimento de projetos reais com empresas reais, adquirindo uma experiência que agrega muito em minha rotina de trabalho.
-
 Atualmente trabalho principalmente com Engenharia de dados e ciência de dados. Pretendo continuar nesta área que a cada dia me desperta mais interesse.
+
+Abaixo segue o portfólio acadêmico dos projetos que trabalhei durante os semestres de minha formação em Análise e Desenvolvimento de Sistemas, na FATEC São José dos Campos.
 
 <img src="https://user-images.githubusercontent.com/56441534/138391512-64da6254-c230-4c7d-93f9-3586379d07a4.jpg" alt="drawing" width="400"/>
   
