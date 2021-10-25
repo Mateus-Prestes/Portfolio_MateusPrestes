@@ -87,9 +87,9 @@ Extraindo os dados do banco de dados para a criação de um novo arquivo `shapef
 ### Contribuições Pessoais
 Durante o desenvolvimento do projeto atuei fortemente na ferramenta ETL, trabalhando as seguintes funcionalidades:
 - Extração e transformação dos dados de arquivos `shapefile`;
-- Configuração do ambiente e integração banco de dados;
-- Ingestão e extração dos dados geoespaciais contidos banco de dados da aplicação;
-- Geração de arquivos `shapefile` a partir da extração dos dados geoespaciais contidos banco;
+- Configuração do ambiente e integração com banco de dados;
+- Ingestão e extração dos dados geoespaciais contidos no banco de dados da aplicação;
+- Geração de arquivos `shapefile` a partir da extração dos dados geoespaciais contidos no banco;
 - Plotagem das formas geométricas (ponto, linha e polígono) dos dados geoespaciais; e
 - Desenvolvimento do servidor web utilizando o microframework `flask`.
 
@@ -101,7 +101,7 @@ Dentre as habilidades técnicas, obtive o seguinte avanço:
     - Sei fazer com autonomia.
 - Desenvolvimento do seridor web com `flask`:
     - Sei fazer com autonomia.
-- Ingestão e extração de dados de bancos de dados relacionais:
+- Ingestão e extração de dados contidos em bancos de dados relacionais:
     - Sei fazer com autonomia.
 
 ### Soft Skills
