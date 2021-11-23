@@ -12,7 +12,7 @@ As principais funcionalidades da ferramenta deveriam ser:
 
 ### Parceiro Acadêmico
 IACIT: Empresa brasileira, fundada em 1986 e com capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados ao Auxílio  e ao Controle do Tráfego Aéreo e Marítimo (CNS/ATM); Meteorologia Radar; Telemetria; Redes Integradas; Comunicação; Defesa e Segurança Pública.
-Conheça mais em [visionaespacial.com.br](https://www.iacit.com.br/).
+Conheça mais em [iacit.com.br](https://www.iacit.com.br/).
 
 <img src="https://user-images.githubusercontent.com/56441534/142960594-c77702b5-7bda-492d-97f7-fbbb2475e6b2.png" width="400"/>
 
