@@ -109,6 +109,12 @@ https://user-images.githubusercontent.com/56441534/143039123-8b3985e6-1df7-43ca-
 
 ![chat_e_pesquisa](https://i.imgur.com/rv5bvbF.gif)
 
+6. Documentação Viva do serviço de API utilizando `Swagger`:
+![image](https://user-images.githubusercontent.com/56441534/143042377-7157b75b-f995-4672-b79a-941b06ec4a3a.png)
+![image](https://user-images.githubusercontent.com/56441534/143042434-76c84b6a-43f8-4dc5-b5d0-a2b699be4eb3.png)
+![image](https://user-images.githubusercontent.com/56441534/143042124-20a38843-ee94-4358-b568-1b59f5304632.png)
+![image](https://user-images.githubusercontent.com/56441534/143042156-9b34e409-3db1-4fac-8d6a-15debacd8df1.png)
+
 
 ### Contribuições Pessoais
 Para desenvolver este projetos, utilizamos a stack MERN (React.js + Node.js + Express + MongoDB). Durante o desenvolvimento, atuei no BackEnd, subindo o servidor e criando as rotas. Também atuei criando a documentação viva do servidor de API, utilizando a ferramenta Swagger. 
