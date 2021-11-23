@@ -164,13 +164,11 @@ https://user-images.githubusercontent.com/56441534/142972085-5ef452ec-b11c-4aca-
 https://user-images.githubusercontent.com/56441534/142972447-fc3885ba-cf3f-4663-8d7b-0fad9ef35f4c.mp4
 
 ### Contribuições Pessoais
-Durante o desenvolvimento do projeto atuei fortemente na ferramenta ETL, trabalhando as seguintes funcionalidades:
-- Extração e transformação dos dados de arquivos `shapefile`;
-- Configuração do ambiente e integração com banco de dados;
-- Ingestão e extração dos dados geoespaciais contidos no banco de dados da aplicação;
-- Geração de arquivos `shapefile` a partir da extração dos dados geoespaciais contidos no banco;
-- Plotagem das formas geométricas (ponto, linha e polígono) dos dados geoespaciais; e
-- Desenvolvimento do servidor web utilizando o microframework `flask`.
+Durante o desaenvolvimento da aplicação, trabalhei ativamente na construção do backend do sistema web, que funcionava em conjunto com um Banco de Dados Relacional MySQL.
+
+Construi o serviço com as rotas e funcionalidades da aplicação web utilizando `java` e `spring`. `Hibernate` foi utilizado para a construção das tabelas no Banco de Dados, bem como operações de ingestão, exclusão e atualização dos dados.
+
+Também tive a oportunidade de trabalhar na UI (User Interface), utilizando principalmente `JavaScript`/`React`.
 
 ### Hard Skills
 Dentre as habilidades técnicas, obtive o seguinte avanço:
