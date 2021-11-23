@@ -24,10 +24,10 @@ Abaixo segue o portfólio acadêmico dos projetos que trabalhei durante os semes
 [ShapeView](https://github.com/Mateus-Prestes/Portfolio_MateusPrestes/blob/main/API_3-SHAPEVIEW.md)
 
 ### Em 2021-1
-EasyATA
+[EasyATA](https://github.com/Mateus-Prestes/Portfolio_MateusPrestes/blob/main/API_4-EASYATA.md)
 
 ### Em 2021-2
-OnlyMotors
+[OnlyMotors](https://github.com/Mateus-Prestes/Portfolio_MateusPrestes/blob/main/API_5-ONLYMOTORS.md)
 
 ## Meus Principais Conhecimentos
 Dentre minhas habilidades técnicas, 
