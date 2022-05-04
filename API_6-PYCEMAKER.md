@@ -44,87 +44,27 @@ A aplicação fornece os seguintes recursos para o monitoramento e previsão de 
 #### link do repositório no Github
 [Repositório](https://github.com/pycemaker)
 
-# CONTINUAR DAQUI
-
 ### Tecnologias adotadas na solução
 Para obter o resultado esperado, a equipe utilizou as seguintes tecnologias:
 
-![image](https://user-images.githubusercontent.com/56441534/143033089-a0cb7912-4e3c-4bba-8fe7-360ad8ae9db1.png)
-
 <p float="left">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/Expo%20Go-black?style=for-the-badge&logo=expo&logoColor=white"/>
 
 </p>
 <p float ="left">
-    <img src ="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img src ="https://img.shields.io/badge/swagger-8bbf3d?style=for-the-badge&logo=swagger&logoColor=white"/>
     <img src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img src ="https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white"/>
 </p>
 
-- [HTML](https://devdocs.io/html/), [CSS](https://devdocs.io/css/) e [JavaScript](https://www.javascript.com/): Criação e desenvolvimento do design da Interface do usuário.
 - [React Native](https://reactnative.dev/): Para a criação de aplicativos Nativos.
-- [Expo Go](https://expo.dev/): Plataforma de código aberto para fazer aplicativos nativos universais para Android, iOS e web com JavaScript e React.
-- [Node](https://nodejs.org/en/): Construção do serviço API's contendo as rotas e funcionalidades da aplicação.
 - [Mongo](https://www.mongodb.com/): Banco de dados não relacional, baseado em documentos.
-- [Firebase](https://firebase.google.com/): Utilizado para hospedagem de arquivos de imagem.
-- [docker](https://www.docker.com/): Utilizado para facilitar a instalação do sistema entre os desenvolvedores
 
 ### Funcionamento
 
-Abaixo alguns vídeos para demonstração da utilização da ferramenta OnlyMotors em seu resultado final.
-
-## Chat e Pesquisa
-1. Registro de Anúncios no sistema. (o sistema de cadastro de usuários segue o mesmo padrão).
-
-<p align=center>
-<img src ="https://user-images.githubusercontent.com/56441534/143032011-a2af8cd9-5c03-4217-913a-e6ce21e3f3a0.gif" width=250/>
-
-2. Cadastro de usuário. Painel de controle onde podemos ver o usuário alterando dados pessoais e seus anúncios. 
-
-https://user-images.githubusercontent.com/56441534/143039123-8b3985e6-1df7-43ca-a382-a9ff30762b41.mp4
-
-
-4. Pesquisa de veículos anunciados, com filtros de:
-    - Marca;
-    - Modelo;
-    - Ano; e
-    - Valor.
-
-5. Chat em tempo real, onde um usuário comum entra em contato com o anúnciante através de outro dispositivo.
-
-![chat_e_pesquisa](https://i.imgur.com/rv5bvbF.gif)
-
-6. Documentação Viva do serviço de API utilizando `Swagger`:
-![image](https://user-images.githubusercontent.com/56441534/143042377-7157b75b-f995-4672-b79a-941b06ec4a3a.png)
-![image](https://user-images.githubusercontent.com/56441534/143042434-76c84b6a-43f8-4dc5-b5d0-a2b699be4eb3.png)
-![image](https://user-images.githubusercontent.com/56441534/143042124-20a38843-ee94-4358-b568-1b59f5304632.png)
-![image](https://user-images.githubusercontent.com/56441534/143042156-9b34e409-3db1-4fac-8d6a-15debacd8df1.png)
-
+Abaixo alguns vídeos para demonstração da utilização da ferramenta Pycemaker em seu resultado final.
 
 ### Contribuições Pessoais
-Para desenvolver este projetos, utilizamos a stack MERN (React.js + Node.js + Express + MongoDB). Durante o desenvolvimento, atuei no BackEnd, subindo o servidor e criando as rotas. Também atuei criando a documentação viva do servidor de API, utilizando a ferramenta Swagger. 
-
-Para a ultima entrega deste projeto, trabalhei na criação de um Dockerfile e um Docker-compose, onde o Docker-Compose contém dois serviços integrados aplicados ao API.
 
 ### Hard Skills
-Dentre as habilidades técnicas, obtive o seguinte avanço:
-- Criação de serviços de API utililizando `Node JS`:
-    - Sei fazer com ajuda.
-- Criação de UI (User Interface) utilizando `HTML`, `CSS`, `JavaScript` e `React JS`:
-    - Sei Fazer com Ajuda.
-- `Docker`:
-    - Sei utilizar com ajuda.
-- Criação de Documentação viva de APIs utilizando `Swagger`:
-    - Sei fazer com autonomia.
-- Utilização do banco de dados não relacional `Mongo DB`:
-    - Sei fazer com autonomia.
 
 ### Soft Skills
-Foi utilizado a metodologia SCRUM para o gerenciamento do tempo, cards e planejamentos.
-Durante este projeto atuei como desenvolvedor backend em minha equipe, consegui participar ativamente das reuniões e entrega dos requisitos solicitados pelo cliente.
- 
+
