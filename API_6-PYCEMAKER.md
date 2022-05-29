@@ -47,7 +47,7 @@ A aplicação fornece os seguintes recursos para o monitoramento e previsão de 
 ### Tecnologias adotadas na solução
 Para obter o resultado esperado, a equipe utilizou as seguintes tecnologias:
 
-<img src="img_API6/TECNOLOGIAS_PYCEMAKER.png"/>
+<img src="img_API6/TECNOLOGIAS_PYCEMAKER.png" width=600/>
 
 #### **Aplicação de Cadastro:**
 - [JavaScript](https://www.javascript.com) e [vue](https://br.vuejs.org/):
