@@ -39,15 +39,15 @@ Dentre minhas habilidades técnicas,
     - Desenvolvimento de Pipelines de dados utilizando ferramentas de ETL, sendo a principal o ```Apache NiFi``` (integrações com APIs, databases, data warehouses, sistemas externos etc.);
     - Criação de processos automatizados utilizando ```Airflow```;
     - Criação de aplicações em ```pySpark``` para tratamento e transformação de dados;
-    - Desenvolvimento de Notebooks utilizando ```Apache Zeppelin```;
+    - Desenvolvimento de Notebooks utilizando ```Apache Zeppelin``` e ```Jupyter Notebook```;
     - Desenvolvimento de aplicações para automatização de processos utilizando ```Python```;
     - Criação de protocolos e procedimentos para utilização do time, com o objetivo de padronizar e melhorar a eficiência da squad; e
     - Desenvolvimento de dashboards utilizando ```Superset```.
 
 - Linguagens de programação, tendo maior contato com as respectivas linguagens:
     - ```Python``` realizando tratamentos de dados e automatização de processos;
-    - ```NodeJS``` na criação de servidores de API's com integração com o ```MongoDB``` ; e
-    - ```Java```.
+    - ```NodeJS``` na criação de servidores de API's com integração com o ```MongoDB```; e
+    - ```Java``` na criação de servidores de API's utilizando o Framework ````SpringBoot```.
 
 - Bancos de dados:
     - ```PostGreSQL```- ```PostGIS``` Para armazenamento de dados geoespaciais oriundos de arquivos no formato ShapeFile;
@@ -58,7 +58,7 @@ Dentre minhas habilidades técnicas,
 - Backend de Aplicações WEB utilizando:
     - ```Python3``` e o MicroFrameWork ```Flask```;
     - ```Java``` e ```Spring```; e
-    - ```NodeJS```.
+    - ```NodeJS``` e ```MongoDB```.
 
 ## Contatos
 * [GIT](https://github.com/Mateus-Prestes)
