@@ -1,12 +1,12 @@
 # Aprendizagem por Projetos Integrados 2021-1
-<img src="img_API6/PYCEMAKER_LOGO.png" width="300"/>
+<img src="img_API6/PYCEMAKER_LOGO.png" width="200"/>
 
 No sexto semestre do Curso de Análise e Desenvolvimento de sistemas na FATEC - São José dos Campos, foi identificado pela empresa parceira a necessidade de realizar o desenvolvimento de um software com alternativas disruptivas que alertam sobre os riscos de indisponibilidade de seus produtos, tendo em vista que a disponibilidade de suas aplicações é uma preocupação constante em seu dia-a-dia.
 
 ## Parceiro Acadêmico
 UOL: O UOL é uma empresa brasileira de conteúdo, produtos e serviços de Internet do Grupo UOL PagSeguro. De acordo com o Comscore, o portal ocupa a terceira posição de sites mais visitados da Internet no Brasil, atrás do Google e do Facebook. Ainda de acordo com o Comscore, o UOL é o maior portal do Brasil com mais de 114 milhões de visitantes únicos por mês e 7,4 bilhões de páginas visitadas mensalmente [uol.com.br](https://www.uol.com.br/).
 
-<img src="img_API6/UOL_LOGO.png" width="400"/>
+<img src="img_API6/UOL_LOGO.png" width="200"/>
 
 ***
 
@@ -25,7 +25,7 @@ A aplicação fornece os seguintes recursos para o monitoramento e previsão de 
 
     **As diferenças entre o e-mail analítico e o Dashboard são:** 
     - O Dashboard fornecerá as informações de uma maneira mais visual que o e-mail; e
-    - O Dashboard é atualizado em *near real time*, fornecendo informações novas a todo momento, enquanto o e-mail analítico fornece um recorte na série temporal que será atualizado apenas no próximo e-mail.
+    - O Dashboard é atualizado *near real time*, fornecendo informações novos dados a todo momento, enquanto o e-mail analítico fornece um recorte na série temporal que será atualizado apenas no próximo e-mail.
 
 ### Lista de Requistos 
 
@@ -49,65 +49,79 @@ Para obter o resultado esperado, a equipe utilizou as seguintes tecnologias:
 
 <img src="img_API6/TECNOLOGIAS_PYCEMAKER.png"/>
 
-<p float="left">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-    <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring&logoColor=black"> 
-    <img src="https://img.shields.io/badge/flask-orange?style=for-the-badge&logo=flask&logoColor=black"> 
-    <img src="https://img.shields.io/badge/NiFi-lightblue?style=for-the-badge&logo=apache&logoColor=black"> 
-    <img src="https://img.shields.io/badge/prometheus-grey?style=for-the-badge&logo=prometheus&logoColor=black"> 
-    <img src="https://img.shields.io/badge/Vue.js-stronggreen?style=for-the-badge&logo=Vue.js&logoColor=black"> 
-    <img src="https://img.shields.io/badge/postgresql-green?style=for-the-badge&logo=postgresql&logoColor=black">
-    <img src="https://img.shields.io/badge/MongoDB-8bbf3d?style=for-the-badge&logo=MongoDB&logoColor=white">
-    <img src="https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white"> 
-    <img src="https://img.shields.io/badge/python-20232A?style=for-the-badge&logo=python&logoColor=white">
-    </br>
-</p>
+#### **Aplicação de Cadastro:**
+- [JavaScript](https://www.javascript.com) e [vue](https://br.vuejs.org/):
+    - Interface do usuário. 
+- [Java](https://www.oracle.com/java/) e [Spring](https://spring.io/):
+    - Cadastro de registros no banco;
+    - Disponibilização de registros cadastrados.
+- [postgres](https://www.postgresql.org/):
+    - Armazenamento de dados cadastrados.
+- [prometheus](https://prometheus.io/):
+    - Ferramenta Open Source integrada ao servidor Spring utilizada para monitoramento de consumo de recursos da aplicação.
 
-- [JavaScript](https://www.javascript.com): Linguagem de programação interpretada estruturada;
-- [vue](https://br.vuejs.org/): Framework progressivo para a construção de interfaces de usuário;
-- [React Native](https://reactnative.dev/): Para a criação de aplicativos Nativos;
-- [Java](https://www.oracle.com/java/): Linguagem de programação orientada a objetos;
-- [Spring](https://spring.io/): Framework java para criação de aplicações web.
-- [Python](https://www.python.org/): Linguagem de programação de alto nível;
-- [Flask](https://flask.palletsprojects.com/): Micro framework python para criação de aplicações web;
-- [nifi](https://nifi.apache.org/): Software para automatizar o fluxo de dados entre sistemas de software;
-- [prometheus](https://prometheus.io/): Ferramenta Open Source de monitoramento;
-- [Mongo](https://www.mongodb.com/): Banco de dados não relacional, baseado em documentos;
-- [postgres](https://www.postgresql.org/): Banco de dados Relacional;
-- [Firebase](https://firebase.google.com/): Utilizado para hospedagem de arquivos de imagem.
+#### **Dashboard analítico**
+- [JavaScript](https://www.javascript.com) e [React Native](https://reactnative.dev/):
+    - Gráficos e informações estatísticas atualizadas *near real time*.
+- [Python](https://www.python.org/) e [Flask](https://flask.palletsprojects.com/):
+    - Disponibilização de dados estatistícos e analíticos da aplicação monitorada; e
+    - Inteligencia Artificial Integrada ao servidor.
+
+- [nifi](https://nifi.apache.org/):
+    - Utilizado dentro do projeto para o fluxo de engenharia de dados, tratando os dados provenientes do Prometheus e fornecendo-os em collections no MongoDB;
+
+- [Mongo](https://www.mongodb.com/):
+    - Armazenamento de dados estatísticos do consumo de recursos do ambiente;
+
+- [Firebase](https://firebase.google.com/): 
+    - Utilizado para hospedagem de arquivos de imagem, posteriormente utilizadas nos e-mails analíticos.
 
 ## Funcionamento
 
 Abaixo algumas imagens para demonstração da utilização da ferramenta Pycemaker em seu resultado atual.
 
-### **Envio de e-mail de alerta estatístico**:
-- <img src="img_API6/EMAIL_ESTATISTICO.png"/>
+### **E-mail de alerta estatístico**:
+<img src="img_API6/EMAIL_ESTATISTICO.png" width=600/>
 
-### **Envio de e-mail analítico**:
-- <img src="img_API6/EMAIL_ANALITICO.png"/>
+### **E-mail analítico**:
+<div><img src="img_API6/email_analitico/row-1-column-1.png" width=400/><img src="img_API6/email_analitico/row-2-column-1.png" width=400/><img src="img_API6/email_analitico/row-3-column-1.png" width=400/><img src="img_API6/email_analitico/row-4-column-1.png" width=400/></div>
 
-### **Dashboard atualizado em tempo real**:
-- <img src="img_API6/Dashboard_SP1.png"/>
+
+### **Dashboard Analítico**:
+<div><img src="img_API6/dash/dash_analitico_1.png" width=400/><img src="img_API6/dash/dash_analitico_2.png" width=400/></div>
 
 ### **Aplicação alvo monitorada (formulário pycemaker)**:
-#### **Cadastro**:
- - <img src="img_API6/FORMULARIO_CADASTRO.png"/>
-
-#### **Dashboard**:
-- <img src="img_API6/FORMULARIO_DASH.png"/>
+<img src="img_API6/form/FORMULARIO_CADASTRO.png" width=800/>
+<div><img src="img_API6/form/list_1.png" width=400/><img src="img_API6/form/list_2.png" width=400/></div>
 
 ### Contribuições Pessoais
+Durante o desenvolvimento do projeto atuei fortemente na preparação e tratamento dos dados a serem analisados pela Inteligência Artificial. 
+Abaixo um resumo de minha contribuição para o projeto:
+- Criação do servidor API utilizando `Java` e `Spring`;
+- Preparação de querys para busca dos dados estatísticos provenientes do `Prometheus`;
+- Desenvolvimento do fluxo de engenharia de dados na ferramenta `nifi`;
+- Disponibilização dos dados de maneira limpa e organizada em collections do `MongoDB`; e
+- Desenvolvimento da Inteligência Artificial em dados de séries temporais utilizando `python`.
 
 #### Hard Skills
 Dentre as habilidades técnicas, obtive o seguinte avanço:
+- Criação e estruturação da página de cadastro dos usuários Vue.js:
+    - Sei fazer com ajuda.
+
+- Criação de servidor API utilizando `Java` em conjunto do Framework `Spring`:
+    - Sei fazer com ajuda.
+
+- Utilização do `Prometheus` para obtenção de dados estatísticos sobre o consumo de recursos no ambiente
+de um determinado servidor monitorado:
+    - Sei fazer com ajuda.
+
 - Criação de fluxos de dados, utilizando a ferramenta de ETL `nifi`:
     - Sei fazer com autonomia.
 
-- Desenvolvimento do seridor de API com `python` em conjunto do micro framework `flask`:
+- Desenvolvimento do servidor de API com `python` em conjunto do micro framework `flask`:
     - Sei fazer com autonomia.
 
-- Criação de modelo de Machine Learning utilizando python em conjunto de bibliotecas específicas para o desenvolvimento:
+- Criação de modelo de Machine Learning utilizando `python` em conjunto de bibliotecas específicas para o desenvolvimento:
     - Sei fazer com ajuda.
 
 - Utilização do banco de dados não relacional `Mongo DB`:
