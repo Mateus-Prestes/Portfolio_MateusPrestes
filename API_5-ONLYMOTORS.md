@@ -13,8 +13,7 @@ A ferramenta tem como objetivo ser composta pelas seguintes características:
 GSW: Oferece soluções em Tecnologia da informação que promovem melhorias significativas no gerenciamento e controle dos processos e negócios.
 Conheça mais em [gsw.com.br](http://www.gsw.com.br/index.php).
 
-<img src="https://user-images.githubusercontent.com/56441534/143023020-6b1dc732-0d3b-4590-a1e2-f2a860081a67.png
-" width="400"/>
+<img src="https://user-images.githubusercontent.com/56441534/170894704-0b279d0f-423a-4b90-b935-a506a1af6547.png" width="400"/>
 
 ***
 
